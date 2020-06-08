@@ -1,4 +1,4 @@
-# kbniang-vue
+# app-pwa
 
 ## Project setup
 ```
